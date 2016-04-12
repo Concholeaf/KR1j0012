@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅翼
-#+DATE: 2016-04-12 14:30:42.775435
+#+DATE: 2016-04-12 14:30:43.577647
 #+PROPERTY: ID KR1j0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR1j0012_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -112,7 +112,7 @@
 夜口赤上天乞恩至章陸子熟乃止然則章陸子未熟¶
 以前為杜鵑鳴之候故稱夜呼¶
 ¶
-　　&KR0433;¶
+　　蓍¶
 ¶
 <pb:KR1j0012_WYG_007-6a>¶
 　　聖人幽贊於神明而生蓍蓍草也初不待聖人而生蓋¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅翼
-#+DATE: 2016-04-12 14:30:42.711461
+#+DATE: 2016-04-12 14:30:43.509297
 #+PROPERTY: ID KR1j0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR1j0012_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -107,7 +107,7 @@
 ¶
 　　茹藘¶
 ¶
-　　茹藘染絳之草葉似&KR0037;葉頭尖下濶莖葉俱澁四五葉¶
+　　茹藘染絳之草葉似棗葉頭尖下濶莖葉俱澁四五葉¶
 對生節間蔓延草木上根紫赤色今所在有八月採根¶
 説文曰人血所生故一名地血今茹藘能治血又所染¶
 亦赤盖其類爾古者士爵弁服弁色赤而㣲黑如爵頭¶

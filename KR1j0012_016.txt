@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅翼
-#+DATE: 2016-04-12 14:30:42.954293
+#+DATE: 2016-04-12 14:30:43.784728
 #+PROPERTY: ID KR1j0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 16
 <pb:KR1j0012_WYG_016-1a>¶
 　　欽定四庫全書¶
@@ -39,7 +39,7 @@
 ¶
 　　隼¶
 ¶
-　　隼鷙鳥也古者鳥隼以為&KR1157;蓋取其鷙然古今言隼迺¶
+　　隼鷙鳥也古者鳥隼以為旟蓋取其鷙然古今言隼迺¶
 未有的指其物者禽經曰鳥之小而鷙者皆曰隼大而¶
 鷙者皆曰鳩獨知其小爾說文解鵻云祝鳩也思允切¶
 <pb:KR1j0012_WYG_016-2b>¶

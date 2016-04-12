@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅翼
-#+DATE: 2016-04-12 14:30:43.298135
+#+DATE: 2016-04-12 14:30:44.116538
 #+PROPERTY: ID KR1j0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 32
 <pb:KR1j0012_WYG_032-1a>¶
 　　欽定四庫全書¶
@@ -20,7 +20,7 @@
 ¶
 　　蛇¶
 ¶
-　　蛇字古但作它耳從虫而長象寃曲垂尾形上古艸居¶
+　　蛇字古但作它耳從虫而長象冤曲垂尾形上古艸居¶
 <pb:KR1j0012_WYG_032-1b>¶
 患它故相問無它乎今之字傍加虫而變其音又蛇行¶
 迂曲考工記以為紆行之屬故退食委蛇亦用蛇字草¶
